@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josemi</h1>
 <h3 align="center">Cloud Computing Engineer and Fashion Lover from Spain</h3>
 
-- 🔭 I’m currently working on **Wazuh**
+- 🔭 I’m currently working at **Wazuh**
 
 - 🌱 I’m currently learning **Front end development**
 
