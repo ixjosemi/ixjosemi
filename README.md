@@ -1,5 +1,3 @@
-![](https://i.imgur.com/4M7IWwP.gif)
-
 <h1 align="center">Hi 👋, I'm Josemi</h1>
 <h3 align="center">Cloud Computing Engineer and Fashion Lover from Spain</h3>
 
@@ -20,5 +18,3 @@
 <a href="https://instagram.com/ixjosemi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ixjosemi" height="30" width="30" /></a>
 <a href="https://dribbble.com/ixjosemi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ixjosemi" height="30" width="30" /></a>
 </p>
-
-![](https://i.imgur.com/4M7IWwP.gif)
