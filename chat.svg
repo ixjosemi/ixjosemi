@@ -250,7 +250,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="133" height="42" rx="18.0355" />
+    <rect width="150" height="42" rx="18.0355" />
     <text x="15" y="27">Hi, I'm Josemi!</text>
   </g>
 
@@ -274,9 +274,9 @@
 
   <!-- From Lanzarote... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Lanzarote, Canary Islands (Spain) where it’s supposed to be</text>
-    <text x="15" y="50">81° F (27° C) and <tspan class="emoji">☀️</tspan> today.</text>
+    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I live in Lanzarote, Canary Islands (Spain) </text>
+    <text x="15" y="50">where it’s supposed to be 27° C and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="370" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Cloud Computing Engineer at Wazuh</text>
   </g>
 
@@ -321,9 +321,9 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Instagram -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="370" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Instagram at
       <a xlink:href="https://instagram.com/ixjosemi">ixjosemi</a>
