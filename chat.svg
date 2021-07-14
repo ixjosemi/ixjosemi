@@ -251,7 +251,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="133" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Jason</text>
+    <text x="15" y="27">Hi, I'm Josemi!</text>
   </g>
 
   <!-- typing 2 -->
@@ -272,10 +272,10 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From Lanzarote... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I live in Columbus, Ohio where it’s supposed to be</text>
+    <text x="15" y="27">I live in Lanzarote, Canary Islands (Spain) where it’s supposed to be</text>
     <text x="15" y="50">81° F (27° C) and <tspan class="emoji">☀️</tspan> today.</text>
   </g>
 
@@ -300,8 +300,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a product designer. I used to work at GitHub,</text>
-    <text x="15" y="50">but I’ve been at PlanetScale for about 6 months now.</text>
+    <text x="15" y="27">I’m a Cloud Computing Engineer at Wazuh</text>
   </g>
 
   <!-- typing 4 -->
@@ -326,8 +325,8 @@
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on Twitter at
-      <a xlink:href="https://twitter.com/jasonlong">https://twitter.com/jasonlong</a>
+      You can find me on Instagram at
+      <a xlink:href="https://instagram.com/ixjosemi">ixjosemi</a>
     </text>
   </g>
 
