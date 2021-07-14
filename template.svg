@@ -299,7 +299,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
+    <rect width="360" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a Cloud Computing Engineer at Wazuh</text>
   </g>
 
@@ -323,7 +323,7 @@
 
   <!-- Instagram -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="430" height="42" rx="18.0355" class="bubble" />
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on Instagram at
       <a xlink:href="https://instagram.com/ixjosemi">ixjosemi</a>
