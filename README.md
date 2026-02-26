@@ -63,8 +63,8 @@ build things that matter
 ## git stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixjosemi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixjosemi&layout=compact&langs_count=8&hide_border=true&theme=github_dark_dimmed" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ixjosemi&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ixjosemi&theme=github_dark" />
 </p>
 
 ## connect --open
