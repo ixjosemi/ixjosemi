@@ -1,6 +1,6 @@
 # José Miguel Hernández
 
-Senior Software Engineer at Sngular (Google Partner). Building AI-powered systems and cloud infrastructure.
+Senior Software Engineer at Sngular. Building AI-powered systems and cloud infrastructure.
 
 **Currently:** Gemini-based document processing, AI agent workflows, GCP migrations
 
