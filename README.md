@@ -6,6 +6,6 @@ Senior Software Engineer at Sngular. Building AI-powered systems and cloud infra
 
 **Side project:** [Arche](https://arche.peaberry.studio) — self-hostable AI agent platform (Peaberry Studio)
 
-**Stack:** Python · TypeScript · Go · GCP · AWS · Kubernetes · FastAPI · Next.js
+**Stack:** Python · FastAPI · GCP · AWS · Kubernetes · VertexAI · Next.js
 
 [LinkedIn](https://linkedin.com/in/ixjosemi)
